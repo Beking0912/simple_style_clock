@@ -9,6 +9,7 @@
 4. 伪元素实现秒针、分针、时针
 5. JS 控制 CSS3 的每秒动效
 
+### key points:
 1. Using div and CSS3 to realize clock dialing
 2. Use CSS3 to control inner shadow, vulva shadow and shadow distance
 3. Horizontal and vertical centering of child elements through flexible layout
